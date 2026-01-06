@@ -1,0 +1,11 @@
+Nexus AI Tech Stack:-
+
+Flask: A lightweight WSGI web application framework. It is used to create the server, handle URL routing, and connect the Python backend with the HTML frontend.
+
+Pandas: A powerful data manipulation and analysis library. It is used to load datasets (DataFrames), clean missing values, and handle row/column operations.
+
+NumPy: A library for numerical computing. It provides support for large, multi-dimensional arrays and mathematical functions to perform high-level operations on data.
+
+Scikit-learn: A machine learning library for Python. It is used for data preprocessing (Scaling, Encoding) and implementing algorithms like Random Forest for AutoML.
+
+Gunicorn: A Python WSGI HTTP Server for UNIX. It is used in production (like on Render) to handle multiple web requests simultaneously and ensure the app runs reliably live
